@@ -1,10 +1,11 @@
 # CPSC 314 project #1: An Animated Rabbit
 
-A rabbit made only out of affine-transformed unit cubes. Features cube mapped reflections and screen-space flame effects.
+A rabbit made only out of affine-transformed unit cubes. Features cube mapped reflections and screen-space flame effects.  Please excuse the style issues -- this was written over three weeks with a full Comp Sci. course load.
 
 ## BUILDING:
 
-on linux, 'make' should just work
+on linux, 'make' should just work.
+
 on windows, use the provided .sln file 
 
 That said, I've tested this on a total of two systems, so YMMV.
