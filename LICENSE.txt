@@ -1,0 +1,24 @@
+LICENSE:
+
+Aside from the noted exceptions, this is the work of Aleksy Jones, aleksy.jones@gmail.com
+
+You may do whatever you wish with these files. If you find anything here useful, then I'd appreciate it if you let me know.
+
+EXCEPTIONS:
+
+Stuff that I didn't make, and that has it's own license:
+
+1. The stb image library (stb_image.h, stb_image.c), used to load in texture images. Written by Sean Barret + others. Public domain 'license' + attribution in the source files.
+
+2. The simplex noise shader 'noise4D.glsl', used to help with flame and heat effects. 
+
+Description : Array and textureless GLSL 2D/3D/4D simplex 
+               noise functions.
+      Author : Ian McEwan, Ashima Arts.
+  Maintainer : ijm
+     Lastmod : 20110822 (ijm)
+     License : Copyright (C) 2011 Ashima Arts. All rights reserved.
+               Distributed under the MIT License. See LICENSE file.
+               https://github.com/ashima/webgl-noise
+
+3. the cube map textures, made by Emil Persson, http://www.humus.name. See cube_map_readme.txt.
